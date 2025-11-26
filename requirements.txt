@@ -3,7 +3,7 @@ voila
 scikit-learn
 pandas
 numpy
-matplotlb
+matplotlib
 seaborn
 scipy
 ipywidgets
