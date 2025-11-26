@@ -6,5 +6,4 @@ numpy
 matplotlb
 seaborn
 scipy
-ipywidgets plotly
-gunicorn flask
+ipywidgets
