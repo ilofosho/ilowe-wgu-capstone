@@ -1,0 +1,10 @@
+jupyter
+voila
+scikit-learn
+pandas
+numpy
+matplotlb
+seaborn
+scipy
+ipywidgets plotly
+gunicorn flask
